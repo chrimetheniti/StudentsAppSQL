@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# ASP.NET
+wwwroot/lib/
+
+# Logs
+Logs/
+*.txt
+
+# User secrets
+secrets.json
+appsettings.Development.json
+
+# OS
+.DS_Store
+Thumbs.db
